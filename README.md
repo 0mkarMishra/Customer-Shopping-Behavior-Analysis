@@ -52,7 +52,14 @@ The project follows a complete analytics workflow from data cleaning to dashboar
 | Domain | Retail Analytics |
 
 ---
+# ⭐ Key Features
 
+- Cleaned and prepared retail customer data using Python and Pandas.
+- Performed Exploratory Data Analysis (EDA) to understand purchasing behavior.
+- Wrote 10 SQL queries to answer business questions.
+- Designed an interactive Tableau dashboard with dynamic filters.
+- Presented business insights through KPIs and visualizations.
+  
 # 🛠️ Technology Stack
 
 | Technology | Purpose |
@@ -114,10 +121,9 @@ The analysis focused on:
 - Customer review ratings
 - Age group analysis
 
-### Libraries Used
+### Python Library Used
 
 - Pandas
-
 ---
 
 # 🗄️ SQL Business Analysis
@@ -183,11 +189,10 @@ Customer-Shopping-Behavior-Analysis
 │
 ├── README.md
 ├── customer_shopping_behavior.csv
-├── Customer_Shoping_Behavior_Analysis.ipynb
+├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_queries.sql
-├── Customer Behavior Dashboard.twbx
-└── images
-    └── dashboard.png
+├── Customer_Behavior_Dashboard.twbx
+└── Dashboard.png
 ```
 
 ---
