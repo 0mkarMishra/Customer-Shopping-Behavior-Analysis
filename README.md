@@ -10,7 +10,6 @@ Analyze customer purchasing behavior, uncover business insights, and build an in
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
@@ -60,7 +59,6 @@ The project follows a complete analytics workflow from data cleaning to dashboar
 |------------|---------|
 | Python | Data Cleaning & Analysis |
 | Pandas | Data Manipulation |
-| NumPy | Numerical Operations |
 | SQL (MySQL) | Business Analysis |
 | Tableau | Interactive Dashboard |
 
@@ -119,7 +117,6 @@ The analysis focused on:
 ### Libraries Used
 
 - Pandas
-- NumPy
 
 ---
 
