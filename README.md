@@ -19,7 +19,7 @@ Analyze customer purchasing behavior, uncover business insights, and build an in
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard.png" alt="Customer Behavior Dashboard" width="100%">
+  <img src="dashboard.png" alt="Customer Behavior Dashboard" width="100%">
 </p>
 
 ---
